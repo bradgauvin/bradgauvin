@@ -7,6 +7,6 @@ I'm a a financial analyst for the Air Force.
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/bradleygauvin/
 - ⚡ Fun fact: I enjoy learning.
--->
---> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bradgauvin&theme=dark)](https://git.io/streak-stats)
---> [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?bradgauvin=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- ->
+- -> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bradgauvin&theme=dark)](https://git.io/streak-stats)
+- -> [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?bradgauvin=Ashutosh00710)(https://github.com/ashutosh00710/github-readme-activity-graph)
