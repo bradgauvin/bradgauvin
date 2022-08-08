@@ -10,3 +10,10 @@ I'm a a financial analyst for the Air Force.
 - ->
 - -> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bradgauvin&theme=dark)](https://git.io/streak-stats)
 - -> [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bradgauvin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## My Projects
+<p align="left">
+
+## Data Science Resources
+<p align="left">
+
