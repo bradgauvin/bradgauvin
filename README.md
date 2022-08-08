@@ -13,6 +13,8 @@ I'm a a financial analyst for the Air Force.
 
 ## My Projects
 <p align="left">
+ <a href="https://github.com/bradgauvin/classification-project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=bradgauvin&repo=classification-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="telco-classification-project"></a>
+
 
 ## Data Science Resources
 <p align="left">
