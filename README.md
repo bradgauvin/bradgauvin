@@ -3,7 +3,7 @@
 I'm a a financial analyst for the Air Force.
 
 - 🔭 I’m currently  stepping up my skills in SQL, Python and the data science projects.  Checkup my Github repositories for more information. 
-- 🌱 I’m knowledgable in data visualization and excel but expanding into data sckence
+- 🌱 I’m knowledgable in data visualization and excel but expanding into data science
 - 💬 Ask me about my history of data visualization for the Military!
 - 📫 How to reach me: https://www.linkedin.com/in/bradleygauvin/
 - ⚡ Fun fact: I enjoy learning and have two Master's degrees and almost done with my PhD.  
